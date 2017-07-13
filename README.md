@@ -12,6 +12,9 @@ In this short guide, we will try to understand the `problem at hand`, and how zk
 - Cryptographic Constructions
 - Circuit Generator 
 - ZK-snarks for circuit
+- Computational Complexity of Zk-Snarks 
 - Examples 
 
 
+## References 
+1. 
