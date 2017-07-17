@@ -17,4 +17,4 @@ In this short guide, we will try to understand the `problem at hand`, and how zk
 
 
 ## References 
-1. 
+1. [ZK-SNARKS in English](https://docs.google.com/presentation/d/1verXkmrW8kVfQ8FVjsEp0UzkHUQkq--YU7uCKAMQA8g/edit?usp=sharing)
