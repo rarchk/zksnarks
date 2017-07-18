@@ -4,18 +4,11 @@ ZK-snarks in english
 `Zk-snarks` are a class of Zero Knowledge proofs, with a property that they can be efficiently represented and computed on modern hardware. SNARKs
 is succinct non-interactive arguments of knowledge. 
 
-In this short guide, we will try to understand the `problem at hand`, and how zk-snarks help us solve that problem. Furthermore we will try to examine various cryptographic constructions it borrows from the field and their limitations. 
 
 
 ## Table of Contents 
-- Introduction 
-- Cryptographic Constructions
-- Circuit Generator 
-- ZK-snarks for circuit
-- Computational Complexity of Zk-Snarks 
-- Examples 
+- [Introduction to ZK-Snarks in English](https://speakerdeck.com/rarchk/zk-snarks-in-english) 
+- [Toy Program to QAP polynomials](https://github.com/rarchk/zksnarks/blob/master/doc/qap.ipynb)
+- [Setting up libsnark on ubuntu](https://github.com/rarchk/zksnarks/blob/master/doc/libsnark.md)
+- [Computational Complexity of Zk-Snarks](https://github.com/rarchk/zksnarks/blob/master/doc/comp_complexity.md) 
 
-
-## References 
-1. [ZK-SNARKS in English](https://speakerdeck.com/rarchk/zk-snarks-in-english)
-2. [Practical Proposed improvements in ZK-Snark setup](https://github.com/rarchk/zksnarks/blob/master/doc/comp_complexity.md)
