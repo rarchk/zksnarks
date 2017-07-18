@@ -17,4 +17,5 @@ In this short guide, we will try to understand the `problem at hand`, and how zk
 
 
 ## References 
-1. [ZK-SNARKS in English](https://docs.google.com/presentation/d/1verXkmrW8kVfQ8FVjsEp0UzkHUQkq--YU7uCKAMQA8g/edit?usp=sharing)
+1. [ZK-SNARKS in English](https://speakerdeck.com/rarchk/zk-snarks-in-english)
+2. [Practical Proposed improvements in ZK-Snark setup](https://github.com/rarchk/zksnarks/blob/master/doc/comp_complexity.md)
